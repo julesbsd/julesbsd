@@ -1,6 +1,6 @@
 # 💫 About Me:
-public class User() <br>{<br>          lastname = Boismond,<br>          firstname = Jules,<br>          Age = 20,<br>          situation = student<br>}
-
+<div style='align-item: center'>public class User() <br>{<br>          lastname = Boismond,<br>          firstname = Jules,<br>          Age = 20,<br>          situation = student<br>}
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-boismond-897918177/) 
