@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👾 About Me:
 <p>public class User() <br>&nbsp;{<br>&emsp; lastname = Boismond,<br>&emsp; firstname = Jules,<br>&emsp; Age = 20,<br>&emsp; situation = student<br>&nbsp;}
 </d>
 
@@ -15,7 +15,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=julesbsd&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=julesbsd&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###✍️ Random Dev Quote
+# ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
