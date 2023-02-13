@@ -1,5 +1,5 @@
 # 👾 About Me:
-<p>public class User() <br>&nbsp;{<br>&emsp; lastname = Boismond,<br>&emsp; firstname = Jules,<br>&emsp; Age = 20,<br>&emsp; situation = student<br>&nbsp;}
+<p>public class User() <br>&nbsp;{<br>&emsp; firstname = Jules,<br>&emsp; Age = 20,<br>&emsp; situation = student<br>&nbsp;}
 </d>
 
 ## 🌐 Socials:
